@@ -1,0 +1,13 @@
+# EdVyro Task Checklist
+- [x] Page structure and reusable internship card data
+- [x] Search and domain filters
+- [x] Empty state
+- [x] Error state
+- [x] Keyboard navigation/focus
+- [x] Form labels
+- [x] Responsive layouts
+- [x] Short explanation in README
+- [ ] Test at 360px, 768px and desktop (optional)
+- [ ] Publish public GitHub repository
+- [ ] Deploy preview
+- [ ] Submit the correct public/view-only link
